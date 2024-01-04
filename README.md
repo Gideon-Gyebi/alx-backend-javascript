@@ -1,8 +1,8 @@
-#Specializations Backend Javascript
-#ES6 (ECMAScript 2015) in JavaScript
+# Specializations Backend Javascript
+# ES6 (ECMAScript 2015) in JavaScript
 
 
-##Key Features:
+## Key Features:
 
 1. Block-Scoped Variables: let and const provide better scoping and prevent common hoisting issues compared to var.
 2. Arrow Functions: Concise syntax for creating functions, with implicit this binding and no arguments object.
@@ -16,14 +16,14 @@
 10. Promises: A mechanism for handling asynchronous operations gracefully, improving code readability and error handling.
 
 
-##Benefits:
+## Benefits:
 
 1. Cleaner, Concise Code: ES6 features often lead to more readable and maintainable code.
 2. Improved Error Handling: Promises and other features enhance error management in asynchronous operations.
 3. Modular Code Organization: Modules promote code reusability and maintainability.
 4. Modern Language Features: ES6 brings JavaScript in line with other modern languages, offering features like classes and modules.
 
-##Adoption:
+## Adoption:
 
 1. ES6 is widely supported in modern browsers and Node.js environments.
 2. Older browsers may require transpilation (converting ES6 code to ES5 for compatibility).
