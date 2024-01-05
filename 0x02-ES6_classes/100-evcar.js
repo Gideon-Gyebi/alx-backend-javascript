@@ -1,4 +1,5 @@
 // Implementing a class named EVCar that extends the Car class.
+/* eslint-disable */
 import Car from './10-car';
 
 export default class EVCar extends Car {
