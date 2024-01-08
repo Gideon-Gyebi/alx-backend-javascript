@@ -1,23 +1,21 @@
 # 0x00-ES6_basic
 
-Concepts
+## Concepts
 For this project, we expect you to look at these concepts:
+1. Modern Javascript
+2. Software Linter
 
-Modern Javascript
-Software Linter
-
-
-Resources
+## Resources
 Read or watch:
 
-ECMAScript 6 - ECMAScript 2015
-Statements and declarations
-Arrow functions
-Default parameters
-Rest parameter
-Javascript ES6 — Iterables and Iterators
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+1. ECMAScript 6 - ECMAScript 2015
+2. Statements and declarations
+3. Arrow functions
+4. Default parameters
+5. Rest parameter
+6. Javascript ES6 — Iterables and Iterators
+7. Learning Objectives
+8. At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 What ES6 is
 New features introduced in ES6
@@ -28,17 +26,18 @@ Rest and spread function parameters
 String templating in ES6
 Object creation and their properties in ES6
 Iterators and for-of loops
-Requirements
-General
-All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-Allowed editors: vi, vim, emacs, Visual Studio Code
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the js extension
-Your code will be tested using the Jest Testing Framework
-Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
-All of your functions must be exported
-Setup
+
+## Requirements General
+1. All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
+2. Allowed editors: vi, vim, emacs, Visual Studio Code
+3. All your files should end with a new line
+4. A README.md file, at the root of the folder of the project, is mandatory
+5. Your code should use the js extension
+6. Your code will be tested using the Jest Testing Framework
+7. Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
+8. All of your functions must be exported
+
+## Setup
 Install NodeJS 12.11.x
 (in your home directory):
 
